@@ -1,0 +1,5 @@
+C:\Users\D-io\Desktop\LocalizationSample\LocalizationPipeline\bin\x86\Debug\LocalizationPipeline.dll
+C:\Users\D-io\Desktop\LocalizationSample\LocalizationPipeline\bin\x86\Debug\LocalizationPipeline.pdb
+C:\Users\D-io\Desktop\LocalizationSample\LocalizationPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\D-io\Desktop\LocalizationSample\LocalizationPipeline\obj\x86\Debug\LocalizationPipeline.dll
+C:\Users\D-io\Desktop\LocalizationSample\LocalizationPipeline\obj\x86\Debug\LocalizationPipeline.pdb

@@ -1,0 +1,34 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.UserTechnology" table="usertechnology">
+		<id name="id" column="id" type="java.lang.Long">
+			<generator class="assigned"/>
+		</id>
+		<property name="tecTowerLevel" type="java.lang.Integer" column="tecTowerLevel"/>
+		<property name="rockTechnologyLevel" type="java.lang.Integer" column="rockTechnologyLevel"/>
+		<property name="metalTechnologyLevel" type="java.lang.Integer" column="metalTechnologyLevel"  />
+		<property name="crystalTechnologyLevel" type="java.lang.Integer" column="crystalTechnologyLevel"  />
+		<property name="powderTechnologyLevel" type="java.lang.Integer" column="powderTechnologyLevel"  />
+		<property name="trainTechnologyLevel" type="java.lang.Integer" column="trainTechnologyLevel"  />
+		<property name="autoAttackTechnologyLevel" type="java.lang.Integer" column="autoAttackTechnologyLevel"  />
+		
+		<property name="upgradeTecTower" type="java.lang.Boolean" column="upgradeTecTower"/>
+		<property name="upgradeRockTec" type="java.lang.Boolean" column="upgradeRockTec"/>
+		<property name="upgradeMetalTec" type="java.lang.Boolean" column="upgradeMetalTec"/>
+		<property name="upgradeCrystalTec" type="java.lang.Boolean" column="upgradeCrystalTec"/>
+		<property name="upgradePowderTec" type="java.lang.Boolean" column="upgradePowderTec"/>
+		<property name="upgradeTrainTec" type="java.lang.Boolean" column="upgradeTrainTec"/>
+		<property name="upgradeAutoAttackTec" type="java.lang.Boolean" column="upgradeAutoAttackTec"/>
+		
+		<property name="tecTowerEndTime" type="java.lang.Long" column="tecTowerEndTime"/>
+		<property name="rockTecEndTime" type="java.lang.Long" column="rockTecEndTime"/>
+		<property name="metalTecEndTime" type="java.lang.Long" column="metalTecEndTime"/>
+		<property name="crystalTecEndTime" type="java.lang.Long" column="crystalTecEndTime"/>
+		<property name="powderTecEndTime" type="java.lang.Long" column="powderTecEndTime"/>
+		<property name="trainTecEndTime" type="java.lang.Long" column="trainTecEndTime"/>
+		<property name="autoAttackTecEndTime" type="java.lang.Long" column="autoAttackTecEndTime"/>
+	</class>
+</hibernate-mapping>

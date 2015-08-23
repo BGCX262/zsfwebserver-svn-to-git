@@ -1,0 +1,17 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.IndexBean" table="indexbean">
+		<id name="indexID" column="indexID" type="java.lang.Integer">
+			<generator class="assigned"/>
+		</id>
+		<property name="name" type="java.lang.String" column="name"/>
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="canPrize" type="java.lang.Boolean" column="canPrize"/>
+		<property name="level" type="java.lang.Integer" column="level"/>
+		<property name="prizeNum" type="java.lang.Integer" column="prizeNum"/>
+		<property name="pileNum" type="java.lang.Integer" column="pileNum"/>
+	</class>
+</hibernate-mapping>

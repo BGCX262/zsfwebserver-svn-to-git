@@ -1,0 +1,794 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+    <asset>
+        <contributor>
+            <author>zsf</author>
+            <authoring_tool>Cad 2 DAE tool</authoring_tool>
+        </contributor>
+        <created>$(time)</created>
+        <modified>$(time)</modified>
+        <unit name="inch" meter="0.0254"/>
+        <up_axis>Z_UP</up_axis>
+    </asset>
+    <library_effects>
+        <effect id="WallFaceEffectId">
+            <profile_COMMON>
+                <newparam sid="q_jpg-surface">
+                    <surface type="2D">
+                        <init_from>q_jpg</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="q_jpg-sampler">
+                    <sampler2D>
+                        <source>q_jpg-surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="common">
+                    <blinn>
+                        <emission>
+                            <color>0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color>0.5882353 0.5882353 0.5882353 1</color>
+                        </ambient>
+                        <diffuse>
+                            <texture texture="q_jpg-sampler" texcoord="CHANNEL1"/>
+                        </diffuse>
+                        <specular>
+                            <color>0.9 0.9 0.9 1</color>
+                        </specular>
+                        <shininess>
+                            <float>9.999999</float>
+                        </shininess>
+                        <reflective>
+                            <color>0 0 0 1</color>
+                        </reflective>
+                        <transparent opaque="A_ONE">
+                            <color>1 1 1 1</color>
+                        </transparent>
+                        <transparency>
+                            <float>1</float>
+                        </transparency>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="WallTopEffectId">
+            <profile_COMMON>
+                <newparam sid="qiangd_jpg-surface">
+                    <surface type="2D">
+                        <init_from>qiangd_jpg</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="qiangd_jpg-sampler">
+                    <sampler2D>
+                        <source>qiangd_jpg-surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="common">
+                    <blinn>
+                        <emission>
+                            <color>0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color>0.5882353 0.5882353 0.5882353 1</color>
+                        </ambient>
+                        <diffuse>
+                            <texture texture="qiangd_jpg-sampler" texcoord="CHANNEL1"/>
+                        </diffuse>
+                        <specular>
+                            <color>0.9 0.9 0.9 1</color>
+                        </specular>
+                        <shininess>
+                            <float>9.999999</float>
+                        </shininess>
+                        <reflective>
+                            <color>0 0 0 1</color>
+                        </reflective>
+                        <transparent opaque="A_ONE">
+                            <color>1 1 1 1</color>
+                        </transparent>
+                        <transparency>
+                            <float>1</float>
+                        </transparency>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="WindowWallTopEffectId">
+            <profile_COMMON>
+                <newparam sid="white_png-surface">
+                    <surface type="2D">
+                        <init_from>white_png</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="white_png-sampler">
+                    <sampler2D>
+                        <source>white_png-surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="common">
+                    <blinn>
+                        <emission>
+                            <color>0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color>0.5882353 0.5882353 0.5882353 1</color>
+                        </ambient>
+                        <diffuse>
+                            <texture texture="white_png-sampler" texcoord="CHANNEL1"/>
+                        </diffuse>
+                        <specular>
+                            <color>0.9 0.9 0.9 1</color>
+                        </specular>
+                        <shininess>
+                            <float>9.999999</float>
+                        </shininess>
+                        <reflective>
+                            <color>0 0 0 1</color>
+                        </reflective>
+                        <transparent opaque="A_ONE">
+                            <color>1 1 1 1</color>
+                        </transparent>
+                        <transparency>
+                            <float>1</float>
+                        </transparency>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="FloorEffectId">
+            <profile_COMMON>
+                <newparam sid="chizhuan_08_png-surface">
+                    <surface type="2D">
+                        <init_from>chizhuan_08_png</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="chizhuan_08_png-sampler">
+                    <sampler2D>
+                        <source>chizhuan_08_png-surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="common">
+                    <blinn>
+                        <emission>
+                            <color>0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color>0.5882353 0.5882353 0.5882353 1</color>
+                        </ambient>
+                        <diffuse>
+                            <texture texture="chizhuan_08_png-sampler" texcoord="CHANNEL1"/>
+                        </diffuse>
+                        <specular>
+                            <color>0.9 0.9 0.9 1</color>
+                        </specular>
+                        <shininess>
+                            <float>9.999999</float>
+                        </shininess>
+                        <reflective>
+                            <color>0 0 0 1</color>
+                        </reflective>
+                        <transparent opaque="A_ONE">
+                            <color>1 1 1 1</color>
+                        </transparent>
+                        <transparency>
+                            <float>1</float>
+                        </transparency>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="DoorEffectId">
+            <profile_COMMON>
+                <newparam sid="door_jpg-surface">
+                    <surface type="2D">
+                        <init_from>door_jpg</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="door_jpg-sampler">
+                    <sampler2D>
+                        <source>door_jpg-surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="common">
+                    <blinn>
+                        <emission>
+                            <color>0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color>0.5882353 0.5882353 0.5882353 1</color>
+                        </ambient>
+                        <diffuse>
+                            <texture texture="door_jpg-sampler" texcoord="CHANNEL1"/>
+                        </diffuse>
+                        <specular>
+                            <color>0.9 0.9 0.9 1</color>
+                        </specular>
+                        <shininess>
+                            <float>9.999999</float>
+                        </shininess>
+                        <reflective>
+                            <color>0 0 0 1</color>
+                        </reflective>
+                        <transparent opaque="A_ONE">
+                            <color>1 1 1 1</color>
+                        </transparent>
+                        <transparency>
+                            <float>1</float>
+                        </transparency>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="WindowEffectId">
+            <profile_COMMON>
+                <newparam sid="window_png-surface">
+                    <surface type="2D">
+                        <init_from>window_png</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="window_png-sampler">
+                    <sampler2D>
+                        <source>window_png-surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="common">
+                    <blinn>
+                        <emission>
+                            <color>0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color>0.5882353 0.5882353 0.5882353 1</color>
+                        </ambient>
+                        <diffuse>
+                            <texture texture="window_png-sampler" texcoord="CHANNEL1"/>
+                        </diffuse>
+                        <specular>
+                            <color>0.9 0.9 0.9 1</color>
+                        </specular>
+                        <shininess>
+                            <float>9.999999</float>
+                        </shininess>
+                        <reflective>
+                            <color>0 0 0 1</color>
+                        </reflective>
+                        <transparent opaque="A_ONE">
+                            <color>1 1 1 1</color>
+                        </transparent>
+                        <transparency>
+                            <float>1</float>
+                        </transparency>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+        <effect id="BayWindowEffectId">
+            <profile_COMMON>
+                <newparam sid="baywindow_png-surface">
+                    <surface type="2D">
+                        <init_from>baywindow_png</init_from>
+                    </surface>
+                </newparam>
+                <newparam sid="baywindow_png-sampler">
+                    <sampler2D>
+                        <source>baywindow_png-surface</source>
+                    </sampler2D>
+                </newparam>
+                <technique sid="common">
+                    <blinn>
+                        <emission>
+                            <color>0 0 0 1</color>
+                        </emission>
+                        <ambient>
+                            <color>0.5882353 0.5882353 0.5882353 1</color>
+                        </ambient>
+                        <diffuse>
+                            <texture texture="baywindow_png-sampler" texcoord="CHANNEL1"/>
+                        </diffuse>
+                        <specular>
+                            <color>0.9 0.9 0.9 1</color>
+                        </specular>
+                        <shininess>
+                            <float>9.999999</float>
+                        </shininess>
+                        <reflective>
+                            <color>0 0 0 1</color>
+                        </reflective>
+                        <transparent opaque="A_ONE">
+                            <color>1 1 1 1</color>
+                        </transparent>
+                        <transparency>
+                            <float>1</float>
+                        </transparency>
+                    </blinn>
+                </technique>
+            </profile_COMMON>
+        </effect>
+    </library_effects>
+    <library_materials>
+        <material id="WallFaceMaterial" name="WallFaceEffectId">
+            <instance_effect url="#WallFaceEffectId"/>
+        </material>
+        <material id="WallTopMaterial" name="WallTopEffectId">
+            <instance_effect url="#WallTopEffectId"/>
+        </material>
+        <material id="WindowWallTopMaterial" name="WindowWallTopEffectId">
+            <instance_effect url="#WindowWallTopEffectId"/>
+        </material>
+        <material id="FloorMaterial" name="FloorEffectId">
+            <instance_effect url="#FloorEffectId"/>
+        </material>
+        <material id="DoorMaterial" name="DoorEffectId">
+            <instance_effect url="#DoorEffectId"/>
+        </material>
+        <material id="WindowMaterial" name="WindowEffectId">
+            <instance_effect url="#WindowEffectId"/>
+        </material>
+        <material id="BayWindowMaterial" name="BayWindowEffectId">
+            <instance_effect url="#BayWindowEffectId"/>
+        </material>
+    </library_materials>
+    <library_geometries>
+        <!--wall<geometry id="Wall" name="WallEntity">
+            <mesh>
+                <source id="WallPoints">
+                    <float_array id="WallPointsArray" count="$(position_count)">$(positions)</float_array>
+                    <technique_common>
+                        <accessor source="#WallPointsArray" count="$(position_point_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="WallNormals">
+                    <float_array id="WallNormalsArray" count="$(normals_count)">$(normals)</float_array>
+                    <technique_common>
+                        <accessor source="#WallNormalsArray" count="$(normals_point_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="WallMaps">
+                    <float_array id="WallMapsArray" count="$(maps_array_count)">$(maps)</float_array>
+                    <technique_common>
+                        <accessor source="#WallMapsArray" count="$(maps_count)" stride="3">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                            <param name="P" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="WallVertices">
+                    <input semantic="POSITION" source="#WallPoints"/>
+                </vertices>
+                <triangles material="WallFaceTarget" count="$(triangles_count)">
+                    <input semantic="VERTEX" source="#WallVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#WallNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#WallMaps" offset="2" set="0"/>
+                    <p>$(triangles)</p>
+                </triangles>
+                <triangles material="WallTopTarget" count="$(top_wall_count)">
+                    <input semantic="VERTEX" source="#WallVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#WallNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#WallMaps" offset="2" set="0"/>
+                    <p>$(top_walls)</p>
+                </triangles>
+            </mesh>
+        </geometry>wall-->
+        <!--WWindowall<geometry id="WindowWall" name="WindowWallEntity">
+            <mesh>
+                <source id="WindowWallPoints">
+                    <float_array id="WindowWallPointsArray" count="$(WindowWall_position_count)">$(WindowWall_positions)</float_array>
+                    <technique_common>
+                        <accessor source="#WindowWallPointsArray" count="$(WindowWall_position_point_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="WindowWallNormals">
+                    <float_array id="WindowWallNormalsArray" count="$(WindowWall_normals_count)">$(WindowWall_normals)</float_array>
+                    <technique_common>
+                        <accessor source="#WindowWallNormalsArray" count="$(WindowWall_normals_point_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="WindowWallMaps">
+                    <float_array id="WindowWallMapsArray" count="$(WindowWall_maps_array_count)">$(WindowWall_maps)</float_array>
+                    <technique_common>
+                        <accessor source="#WindowWallMapsArray" count="$(WindowWall_maps_count)" stride="3">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                            <param name="P" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="WindowWallVertices">
+                    <input semantic="POSITION" source="#WindowWallPoints"/>
+                </vertices>
+                <triangles material="WallFaceTarget" count="$(WindowWall_triangles_count)">
+                    <input semantic="VERTEX" source="#WindowWallVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#WindowWallNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#WindowWallMaps" offset="2" set="0"/>
+                    <p>$(WindowWall_triangles)</p>
+                </triangles>
+                <triangles material="WindowWallTopTarget" count="$(WindowWall_top_wall_count)">
+                    <input semantic="VERTEX" source="#WindowWallVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#WindowWallNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#WindowWallMaps" offset="2" set="0"/>
+                    <p>$(WindowWall_top_walls)</p>
+                </triangles>
+                <triangles material="WallTopTarget" count="$(WindowWall_btm_wall_count)">
+                    <input semantic="VERTEX" source="#WindowWallVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#WindowWallNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#WindowWallMaps" offset="2" set="0"/>
+                    <p>$(WindowWall_btm_walls)</p>
+                </triangles>
+            </mesh>
+        </geometry>WWindowall-->
+        <!--window<geometry id="Window" name="WindowEntity">
+            <mesh>
+                <source id="WindowPoints">
+                    <float_array id="WindowPointsArray" count="$(window_points_size)">$(window_points)</float_array>
+                    <technique_common>
+                        <accessor source="#WindowPointsArray" count="$(window_points_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="WindowNormals">
+                    <float_array id="WindowNormalsArray" count="$(window_normals_size)">$(window_normals)</float_array>
+                    <technique_common>
+                        <accessor source="#WindowNormalsArray" count="$(window_normals_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="WindowMaps">
+                    <float_array id="WindowMapsArray" count="$(window_array_count)">$(window_maps)</float_array>
+                    <technique_common>
+                        <accessor source="#WindowMapsArray" count="$(window_maps_count)" stride="3">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                            <param name="P" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="WindowVertices">
+                    <input semantic="POSITION" source="#WindowPoints"/>
+                </vertices>
+                <triangles material="WindowTarget" count="$(window_triangles_size)">
+                    <input semantic="VERTEX" source="#WindowVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#WindowNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#WindowMaps" offset="2" set="0"/>
+                    <p>$(window_idxs)</p>
+                </triangles>
+            </mesh>
+        </geometry>window-->
+        <!--bayWindow<geometry id="BayWindow" name="BayWindowEntity">
+            <mesh>
+                <source id="BayWindowPoints">
+                    <float_array id="BayWindowPointsArray" count="$(baywindow_position_count)">$(baywindow_positions)</float_array>
+                    <technique_common>
+                        <accessor source="#BayWindowPointsArray" count="$(baywindow_position_point_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="BayWindowNormals">
+                    <float_array id="BayWindowNormalsArray" count="$(baywindow_normals_count)">$(baywindow_normals)</float_array>
+                    <technique_common>
+                        <accessor source="#BayWindowNormalsArray" count="$(baywindow_normals_point_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="BayWindowMaps">
+                    <float_array id="BayWindowMapsArray" count="$(baywindow_maps_array_count)">$(baywindow_maps)</float_array>
+                    <technique_common>
+                        <accessor source="#BayWindowMapsArray" count="$(baywindow_maps_count)" stride="3">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                            <param name="P" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="BayWindowVertices">
+                    <input semantic="POSITION" source="#BayWindowPoints"/>
+                </vertices>
+                <triangles material="BayWindowTarget" count="$(baywindow_triangles_count)">
+                    <input semantic="VERTEX" source="#BayWindowVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#BayWindowNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#BayWindowMaps" offset="2" set="0"/>
+                    <p>$(baywindow_triangles)</p>
+                </triangles>
+            </mesh>
+        </geometry>bayWindow-->
+        <!--door<geometry id="DoorWall" name="DoorWallEntity">
+            <mesh>
+                <source id="DoorWallPoints">
+                    <float_array id="DoorWallPointsArray" count="$(doorWall_position_count)">$(doorWall_positions)</float_array>
+                    <technique_common>
+                        <accessor source="#DoorWallPointsArray" count="$(doorWall_position_point_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="DoorWallNormals">
+                    <float_array id="DoorWallNormalsArray" count="$(doorWall_normals_count)">$(doorWall_normals)</float_array>
+                    <technique_common>
+                        <accessor source="#DoorWallNormalsArray" count="$(doorWall_normals_point_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="DoorWallMaps">
+                    <float_array id="DoorWallMapsArray" count="$(doorWall_maps_array_count)">$(doorWall_maps)</float_array>
+                    <technique_common>
+                        <accessor source="#DoorWallMapsArray" count="$(doorWall_maps_count)" stride="3">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                            <param name="P" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="DoorWallVertices">
+                    <input semantic="POSITION" source="#DoorWallPoints"/>
+                </vertices>
+                <triangles material="WallFaceTarget" count="$(doorWall_triangles_count)">
+                    <input semantic="VERTEX" source="#DoorWallVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#DoorWallNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#DoorWallMaps" offset="2" set="0"/>
+                    <p>$(doorWall_triangles)</p>
+                </triangles>
+                <triangles material="WindowWallTopTarget" count="$(doorWall_top_wall_count)">
+                    <input semantic="VERTEX" source="#DoorWallVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#DoorWallNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#DoorWallMaps" offset="2" set="0"/>
+                    <p>$(doorWall_top_walls)</p>
+                </triangles>
+                <triangles material="WallTopTarget" count="$(doorWall_btm_wall_count)">
+                    <input semantic="VERTEX" source="#DoorWallVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#DoorWallNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#DoorWallMaps" offset="2" set="0"/>
+                    <p>$(doorWall_btm_walls)</p>
+                </triangles>
+            </mesh>
+        </geometry>
+        <geometry id="Door" name="DoorEntity">
+            <mesh>
+                <source id="DoorPoints">
+                    <float_array id="DoorPointsArray" count="$(door_points_size)">$(door_points)</float_array>
+                    <technique_common>
+                        <accessor source="#DoorPointsArray" count="$(door_points_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="DoorNormals">
+                    <float_array id="DoorNormalsArray" count="$(door_normals_size)">$(door_normals)</float_array>
+                    <technique_common>
+                        <accessor source="#DoorNormalsArray" count="$(door_normals_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="DoorMaps">
+                    <float_array id="DoorMapsArray" count="$(door_array_count)">$(door_maps)</float_array>
+                    <technique_common>
+                        <accessor source="#DoorMapsArray" count="$(door_maps_count)" stride="3">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                            <param name="P" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="DoorVertices">
+                    <input semantic="POSITION" source="#DoorPoints"/>
+                </vertices>
+                <triangles material="DoorTarget" count="$(door_triangles_size)">
+                    <input semantic="VERTEX" source="#DoorVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#DoorNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#DoorMaps" offset="2" set="0"/>
+                    <p>$(door_idxs)</p>
+                </triangles>
+            </mesh>
+        </geometry>door-->
+        <!--floor<geometry id="Floor" name="FloorEntity">
+            <mesh>
+                <source id="FloorPoints">
+                    <float_array id="FloorPointsArray" count="$(floor_points_size)">$(floor_points)</float_array>
+                    <technique_common>
+                        <accessor source="#FloorPointsArray" count="$(floor_points_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="FloorNormals">
+                    <float_array id="FloorNormalsArray" count="$(floor_normals_size)">$(floor_normals)</float_array>
+                    <technique_common>
+                        <accessor source="#FloorNormalsArray" count="$(floor_normals_count)" stride="3">
+                            <param name="X" type="float"/>
+                            <param name="Y" type="float"/>
+                            <param name="Z" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <source id="FloorMaps">
+                    <float_array id="FloorMapsArray" count="$(floor_array_count)">$(floor_maps)</float_array>
+                    <technique_common>
+                        <accessor source="#FloorMapsArray" count="$(floor_maps_count)" stride="3">
+                            <param name="S" type="float"/>
+                            <param name="T" type="float"/>
+                            <param name="P" type="float"/>
+                        </accessor>
+                    </technique_common>
+                </source>
+                <vertices id="FloorVertices">
+                    <input semantic="POSITION" source="#FloorPoints"/>
+                </vertices>
+                <triangles material="FloorTarget" count="$(floor_triangles_size)">
+                    <input semantic="VERTEX" source="#FloorVertices" offset="0"/>
+                    <input semantic="NORMAL" source="#FloorNormals" offset="1"/>
+                    <input semantic="TEXCOORD" source="#FloorMaps" offset="2" set="0"/>
+                    <p>$(floor_idxs)</p>
+                </triangles>
+            </mesh>
+        </geometry>floor-->
+    </library_geometries>
+    <library_lights>
+        <light id="EnvironmentAmbientLight" name="EnvironmentAmbientLight">
+            <technique_common>
+                <ambient>
+                    <color>0 0 0</color>
+                </ambient>
+            </technique_common>
+        </light>
+    </library_lights>
+    <library_images>
+        <image id="chizhuan_08_png">
+            <init_from>images/mudiban_03.jpg</init_from>
+        </image>
+        <image id="qiangd_jpg">
+            <init_from>images/qiangd.jpg</init_from>
+        </image>
+        <image id="q_jpg">
+            <init_from>images/q.jpg</init_from>
+        </image>
+        <image id="white_png">
+            <init_from>images/white.png</init_from>
+        </image>
+        <image id="door_jpg">
+            <init_from>images/door.jpg</init_from>
+        </image>
+        <image id="window_png">
+            <init_from>images/window.png</init_from>
+        </image>
+        <image id="baywindow_png">
+            <init_from>images/baywindow.png</init_from>
+        </image>
+    </library_images>
+    <library_visual_scenes>
+        <visual_scene id="MaxScene">
+            <node name="EnvironmentAmbientLight">
+                <instance_light url="#EnvironmentAmbientLight"/>
+            </node>
+            <node id="node-EnvironmentAmbientLight" name="EnvironmentAmbientLight"/>
+            <!--wall<node id="node-WallEntity" name="Wall">
+                <instance_geometry url="#Wall">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="WallFaceTarget" target="#WallFaceMaterial">
+                                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                            <instance_material symbol="WallTopTarget" target="#WallTopMaterial"/>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+            </node>wall-->
+            <!--WWindowall<node id="node-WindowWallEntity" name="Wall">
+                <instance_geometry url="#WindowWall">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="WallFaceTarget" target="#WallFaceMaterial">
+                                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                            <instance_material symbol="WindowWallTopTarget" target="#WindowWallTopMaterial">
+                                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                            <instance_material symbol="WallTopTarget" target="#WallTopMaterial"/>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+            </node>WWindowall-->
+            <!--window<node id="node-WindowEntity" name="Window">
+                <instance_geometry url="#Window">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="WindowTarget" target="#WindowMaterial">
+                                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+            </node>window-->
+            <!--bayWindow<node id="node-bayWindowEntity" name="BayWindow">
+                <instance_geometry url="#BayWindow">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="BayWindowTarget" target="#BayWindowMaterial">
+                                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+            </node>bayWindow-->
+            <!--door<node id="node-DoorEntity" name="Wall">
+                <instance_geometry url="#DoorWall">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="WallFaceTarget" target="#WallFaceMaterial">
+                                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                            <instance_material symbol="WindowTopTarget" target="#WindowTopMaterial">
+                                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                            <instance_material symbol="WallTopTarget" target="#WallTopMaterial"/>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+            </node>
+            <node id="node-DoorEntity" name="Door">
+                <instance_geometry url="#Door">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="DoorTarget" target="#DoorMaterial">
+                                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+            </node>door-->
+            <!--floor<node id="node-FloorEntity" name="Floor">
+                <instance_geometry url="#Floor">
+                    <bind_material>
+                        <technique_common>
+                            <instance_material symbol="FloorTarget" target="#FloorMaterial">
+                                <bind_vertex_input semantic="CHANNEL1" input_semantic="TEXCOORD" input_set="0"/>
+                            </instance_material>
+                        </technique_common>
+                    </bind_material>
+                </instance_geometry>
+            </node>floor-->
+        </visual_scene>
+    </library_visual_scenes>
+    <scene>
+        <instance_visual_scene url="#MaxScene"/>
+    </scene>
+</COLLADA>

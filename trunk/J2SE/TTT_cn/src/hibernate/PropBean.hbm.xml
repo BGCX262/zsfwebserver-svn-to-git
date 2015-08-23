@@ -1,0 +1,22 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.PropBean" table="propbean">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="identity"/>
+		</id>
+		<property name="goodID" type="java.lang.Integer" column="goodID" />
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="type" type="java.lang.Integer" column="type"/>
+		<property name="sortID" type="java.lang.Integer" column="sortID"/>
+		<property name="name" type="java.lang.String" column="name" length="50"/>
+		<property name="resourceName" type="java.lang.String" column="resourceName" length="50"/>
+		<property name="time" type="java.lang.Long" column="time"/>
+		<property name="result" type="java.lang.String" column="result" length="255"/>
+		<property name="comment" type="java.lang.String" column="comment" length="100"/>
+		<property name="keyIDs" type="java.lang.String" column="keyIDs" length="100"/>
+		<!--<property name="color" type="java.lang.Integer" column="color" />
+	--></class>
+</hibernate-mapping>

@@ -1,0 +1,29 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.TreasureChestBean" table="treasurechestbean">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="identity"/>
+		</id>
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="goodID" type="java.lang.Integer" column="goodID"/>
+		<property name="level" type="java.lang.Integer" column="level"/>
+		<property name="limitLevel" type="java.lang.Integer" column="limitLevel"/>
+		<property name="needKey" type="java.lang.Boolean" column="needKey"/>
+		<property name="keyID" type="java.lang.Integer" column="keyID"/>
+		<property name="zeroGoods" type="java.lang.Double" column="zeroGoods"/>
+		<property name="oneGoods" type="java.lang.Double" column="oneGoods"/>
+		<property name="twoGoods" type="java.lang.Double" column="twoGoods"/>
+		<property name="threeGoods" type="java.lang.Double" column="threeGoods"/>
+		<property name="normalGoods" type="java.lang.Double" column="normalGoods"/>
+		<property name="preciousGoods" type="java.lang.Double" column="preciousGoods"/>
+		<property name="rareGoods" type="java.lang.Double" column="rareGoods"/>
+		<property name="time" type="java.lang.Integer" column="time"/>
+		<property name="name" type="java.lang.String" column="name" length="50"/>
+		<property name="resourceName" type="java.lang.String" column="resourceName" length="50"/>
+		<property name="presents" type="java.lang.String" column="presents"  length="1000"/>
+		<property name="comment" type="java.lang.String" column="comment" length="100"/>
+	</class>
+</hibernate-mapping>

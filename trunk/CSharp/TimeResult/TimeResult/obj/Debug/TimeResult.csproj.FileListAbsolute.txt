@@ -1,0 +1,8 @@
+e:\c#workspace\TimeResult\TimeResult\bin\Debug\TimeResult.exe
+e:\c#workspace\TimeResult\TimeResult\bin\Debug\TimeResult.pdb
+e:\c#workspace\TimeResult\TimeResult\obj\Debug\ResolveAssemblyReference.cache
+e:\c#workspace\TimeResult\TimeResult\obj\Debug\TimeResult.Form1.resources
+e:\c#workspace\TimeResult\TimeResult\obj\Debug\TimeResult.Properties.Resources.resources
+e:\c#workspace\TimeResult\TimeResult\obj\Debug\TimeResult.csproj.GenerateResource.Cache
+e:\c#workspace\TimeResult\TimeResult\obj\Debug\TimeResult.exe
+e:\c#workspace\TimeResult\TimeResult\obj\Debug\TimeResult.pdb

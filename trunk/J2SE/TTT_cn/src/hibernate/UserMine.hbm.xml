@@ -1,0 +1,23 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.UserMine" table="usermine">
+		<id name="id" column="id" type="java.lang.Long">
+			<generator class="assigned"/>
+		</id>
+		<property name="rockMineLevel" type="java.lang.Integer" column="rockMineLevel"/>
+		<property name="metalMineLevel" type="java.lang.Integer" column="metalMineLevel"/>
+		<property name="crystalMineLevel" type="java.lang.Integer" column="crystalMineLevel"  />
+		<property name="rockMineState" type="java.lang.Integer" column="rockMineState"  />
+		<property name="metalMineState" type="java.lang.Integer" column="metalMineState"  />
+		<property name="crystalMineState" type="java.lang.Integer" column="crystalMineState"  />
+		<property name="rockEndTime" type="java.lang.Long" column="rockEndTime"/>
+		<property name="metalEndTime" type="java.lang.Long" column="metalEndTime"/>
+		<property name="crystalEndTime" type="java.lang.Long" column="crystalEndTime"/>
+		<property name="nextRockCollectTime" type="java.lang.Long" column="nextRockCollectTime"/>
+		<property name="nextMetalCollectTime" type="java.lang.Long" column="nextMetalCollectTime"/>
+		<property name="nextCrystalCollectTime" type="java.lang.Long" column="nextCrystalCollectTime"/>
+	</class>
+</hibernate-mapping>

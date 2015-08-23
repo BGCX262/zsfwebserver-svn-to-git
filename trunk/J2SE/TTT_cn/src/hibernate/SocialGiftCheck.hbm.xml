@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.SocialGiftCheckroom" table="t_socialgiftcheckroom">
+		<id name="id" column="id" type="java.lang.Long">
+			<generator class="identity"/>
+		</id>
+		<property name="master" type="java.lang.Long" column="master"/>
+		<property name="goods" type="java.lang.Integer" column="goods" />
+		<property name="num" type="java.lang.Integer" column="num" />
+		<property name="validity" type="java.lang.Boolean" column="validity"/>
+	</class>
+</hibernate-mapping>

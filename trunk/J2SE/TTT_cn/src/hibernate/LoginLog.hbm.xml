@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="GBK"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+                                   "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="com.database.model.bean">
+	<class table="loginlog" name="LoginLog">
+		<id name="masterID">
+			<generator class="assigned"></generator>
+		</id>
+		<property name="registerTime" type="java.sql.Date" column="registerTime" />
+
+		<property name="loginCount" type="java.lang.Integer" column="loginCount" />
+
+		<property name="loginAwardCount" type="java.lang.Integer" column="loginAwardCount" />
+
+		<property name="lastLoginTime" type="java.sql.Timestamp" column="lastLoginTime" />
+
+		<property name="lastAwardTime" type="java.lang.Long" column="lastAwardTime" />
+
+		<property name="lastIssueTime" type="java.lang.Long" column="lastIssueTime" />
+
+		<property name="inviteCount" type="java.lang.Integer" column="inviteCount" />
+
+		<property name="lastInviteTime" type="java.lang.Long" column="lastInviteTime" />
+
+		<property name="tenAddCount" type="java.lang.Integer" column="tenAddCount" />
+
+		<property name="lastTenAddTime" type="java.lang.Long" column="lastTenAddTime" />
+
+		<property name="fullAddCount" type="java.lang.Integer" column="fullAddCount" />
+
+		<property name="lastFullAddTime" type="java.lang.Long" column="lastFullAddTime" />
+	</class>
+</hibernate-mapping>

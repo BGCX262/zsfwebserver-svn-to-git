@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.PVPRecordBean" table="pvprecordbean">
+		<id name="id" column="id" type="java.lang.Long">
+			<generator class="assigned"/>
+		</id>
+		<property name="hp" type="java.lang.Integer" column="hp"/>
+		<property name="coin" type="java.lang.Integer" column="coin"/>
+		<property name="rock" type="java.lang.Integer" column="rock" />
+		<property name="metal" type="java.lang.Integer" column="metal" />
+		<property name="crystal" type="java.lang.Integer" column="crystal" />
+		<property name="usedPropsInfo" type="java.lang.String" column="usedPropsInfo" length="1024"/>
+		<property name="lossGoodsInfo" type="java.lang.String" column="lossGoodsInfo" length="1024"/>
+	</class>
+</hibernate-mapping>

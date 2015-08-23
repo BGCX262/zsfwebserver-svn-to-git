@@ -1,0 +1,3 @@
+C:\Users\han\Desktop\GameStateManagementSample\GameStateManagement\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\D-io\Desktop\GameStateManagementSample\GameStateManagement\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\D-io\Desktop\SimpleGame\SimpleGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

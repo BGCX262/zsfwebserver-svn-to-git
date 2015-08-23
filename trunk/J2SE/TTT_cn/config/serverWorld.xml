@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<server-config>
+	<!--<named-config name="center config">
+		<property name="minIdentity">10000</property>
+		<property name="maxIdentity">30000</property>
+		<property name="port">8300</property>
+		<property name="ip">127.0.0.1</property>
+		<property name="initPoolSize">5</property>
+		<property name="acquireIncrement">5</property>
+		<property name="minPoolSize">5</property>
+		<property name="maxPoolSize">20</property>
+		<property name="idleConnectionTestPeriod">10000</property>
+		<property name="CommunicationProtocol">0x01010000</property>
+	</named-config>
+--></server-config>

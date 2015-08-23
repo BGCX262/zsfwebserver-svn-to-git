@@ -1,0 +1,32 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.UserCastle" table="usercastle">
+		<id name="id" column="id" type="java.lang.Long">
+			<generator class="assigned"/>
+		</id>
+		<property name="name" type="java.lang.String" column="name" length="50"/>
+		<property name="castleID" type="java.lang.Integer" column="castleID"/>
+		<property name="race" type="java.lang.Integer" column="race"/>
+		<property name="vip" type="java.lang.Boolean" column="vip"/>
+		<property name="sex" type="java.lang.Boolean" column="sex"/>
+		<property name="maxCity" type="java.lang.Integer" column="maxCity"  />
+		<property name="energyLimit" type="java.lang.Integer" column="energyLimit"  />
+		<property name="nomalstorageLimit" type="java.lang.Integer" column="nomalstorageLimit"  />
+		<property name="slaverLimit" type="java.lang.Integer" column="slaverLimit"  />
+		<property name="soulLimit" type="java.lang.Integer" column="soulLimit" />
+		<property name="currentCity" type="java.lang.Integer" column="currentCity"/>
+		<property name="state" type="java.lang.Integer" column="state"/>
+		<property name="endTime" type="java.lang.Long" column="endTime"/>
+		<property name="timezoneOffset" type="java.lang.Integer" column="timezoneOffset"/>
+		<property name="titles" type="java.lang.String" column="titles"  length="255"/>
+		<property name="currTitle" type="java.lang.Integer" column="currTitle"/>
+		<property name="repairHp" type="java.lang.Integer" column="repairHp"/>
+		<property name="pvpWinCount" type="java.lang.Integer" column="pvpWinCount"/>
+		<property name="hp" type="java.lang.Integer" column="hp"/>
+		<property name="revertTime" type="java.lang.Long" column="revertTime"/>
+		<property name="recivePresentLevel" type="java.lang.Integer" column="recivePresentLevel"/>
+	</class>
+</hibernate-mapping>

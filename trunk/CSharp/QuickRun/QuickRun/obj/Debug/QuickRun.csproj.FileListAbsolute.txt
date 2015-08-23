@@ -1,0 +1,8 @@
+E:\c#workspace\QuickRun\QuickRun\obj\Debug\ResolveAssemblyReference.cache
+E:\c#workspace\QuickRun\QuickRun\obj\Debug\QuickRun.Form1.resources
+E:\c#workspace\QuickRun\QuickRun\obj\Debug\QuickRun.Properties.Resources.resources
+E:\c#workspace\QuickRun\QuickRun\obj\Debug\QuickRun.csproj.GenerateResource.Cache
+E:\c#workspace\QuickRun\QuickRun\bin\Debug\QuickRun.exe
+E:\c#workspace\QuickRun\QuickRun\bin\Debug\QuickRun.pdb
+E:\c#workspace\QuickRun\QuickRun\obj\Debug\QuickRun.exe
+E:\c#workspace\QuickRun\QuickRun\obj\Debug\QuickRun.pdb

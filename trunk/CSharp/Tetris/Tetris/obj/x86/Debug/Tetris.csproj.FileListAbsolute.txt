@@ -1,0 +1,51 @@
+e:\c#workspace\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\c#workspace\Tetris\Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Tetris.exe
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Tetris.pdb
+e:\c#workspace\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+e:\c#workspace\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\bg1.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\black.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\bg2.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\bg3.xnb
+E:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\white.xnb
+E:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\box.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\fonts\gamefont.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\obj\x86\Debug\Tetris.exe
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\bg1.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\black.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\bg2.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\bg3.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\white.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\box.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\fonts\gamefont.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\1.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Tetris.exe
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Tetris.pdb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\10.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\11.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\12.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\2.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\3.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\4.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\5.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\6.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\7.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\8.xnb
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\9.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\1.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\10.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\11.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\12.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\2.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\3.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\4.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\5.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\6.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\7.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\8.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\break\9.xnb
+e:\c#workspace\Tetris\Tetris\bin\x86\Debug\Content\imgs\textfield.xnb

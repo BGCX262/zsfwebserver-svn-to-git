@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<project name="AutoValidateAntProject" default="test">
+	<!-- properies -->
+	<property name="tomcat.dir" value="D:\apache-tomcat-6.0.13" />
+	<property name="webapps.floder" value="webapps" />
+	<property name="src.dir" value="src" />
+	<property name="report.dir" value="report" />
+	<property name="lib.dir" value="lib" />
+	<property name="classes.dir" value="bin" />
+	<!-- 定义classpath -->
+	<path id="master-classpath">
+		<fileset file="${lib.dir}/*.jar" />
+		<pathelement path="${classes.dir}" />
+	</path>
+	<!-- 清理 -->
+	<target name="clear">
+		<delete dir="${classes.dir}"/>
+	</target>
+	<!-- 构建 -->
+	<target name="build" depends="clear">
+		<mkdir dir="${classes.dir}" />
+		<javac srcdir="${src.dir}" destdir="${classes.dir}" target="1.6">
+			<classpath refid="master-classpath" />
+		</javac>
+	</target>
+	<!-- 测试 -->
+	<target name="test" depends="build" description="run junit test">
+		<mkdir dir="${report.dir}" />
+		<junit printsummary="on" haltonfailure="false" failureproperty="tests.failed" showoutput="true">
+			<classpath refid="master-classpath" />
+			<formatter type="plain" />
+			<batchtest todir="${report.dir}">
+				<fileset dir="${classes.dir}">
+					<include name="**/*Test.*" />
+				</fileset>
+			</batchtest>
+		</junit>
+		<fail if="tests.failed">-
+***********************************************************
+****  One or more tests failed!  Check the output ...  ****
+***********************************************************
+        </fail>
+	</target>
+</project>

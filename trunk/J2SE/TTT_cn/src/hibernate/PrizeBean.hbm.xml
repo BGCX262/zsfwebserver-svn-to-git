@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.PrizeBean" table="prizebean">
+		<id name="id" type="java.lang.Integer" column="id">
+			<generator class="identity"/>
+		</id>
+		<property name="goodID" type="java.lang.Integer" column="goodID"/>
+		<property name="cityLevel" type="java.lang.Integer" column="cityLevel"/>
+		<property name="dropRate" type="java.lang.Double" column="dropRate"/>
+		<property name="cityPrizeRate" type="java.lang.Double" column="cityPrizeRate"/>
+		<property name="taskPrizeRate" type="java.lang.Double" column="taskPrizeRate"/>
+		<property name="systemCreateRate" type="java.lang.Double" column="systemCreateRate"/>
+		<property name="prizeNum" type="java.lang.Integer" column="prizeNum"/>
+	</class>
+</hibernate-mapping>

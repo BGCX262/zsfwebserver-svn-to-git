@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Dec 28 11:51:44 CST 2011
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=C\:\\Users\\D-io\\Desktop\\Test_jar.jar
+manifest.mergeall=true
+manifest.mainclass=com.ttt.main.Main
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=

@@ -1,0 +1,1 @@
+e:\c#workspace\MyFarseerTest\MyFarseerTest\Content\obj\x86\Debug\ResolveAssemblyReference.cache

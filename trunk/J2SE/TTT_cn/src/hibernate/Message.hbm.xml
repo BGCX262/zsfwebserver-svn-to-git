@@ -1,0 +1,22 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.Message" table="message">
+		<id name="id" column="id" type="java.lang.Long">
+			<generator class="identity"/>
+		</id>
+		<property name="sender" type="java.lang.Long" column="sender"/>
+		<property name="accepter" type="java.lang.Long" column="accepter"/>
+		<property name="attacher" type="java.lang.Long" column="attacher"/>
+		<property name="messageType" type="java.lang.Integer" column="messageType"/>
+		<property name="content" type="java.lang.String" column="content"  length="255"/>
+		<property name="lossGoods" type="java.lang.String" column="lossGoods"/>
+		<property name="usedProp" type="java.lang.String" column="usedProp"  length="255"/>
+		<property name="senderRace" type="java.lang.Integer" column="senderRace"/>
+		<property name="time" type="java.lang.Long" column="time"/>
+		<property name="old" type="java.lang.Boolean" column="old"/>
+		<property name="reward" type="java.lang.String" column="reward"/>
+	</class>
+</hibernate-mapping>

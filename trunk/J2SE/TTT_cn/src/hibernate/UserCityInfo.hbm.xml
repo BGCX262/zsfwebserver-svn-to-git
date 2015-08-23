@@ -1,0 +1,13 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.UserCityInfo" table="usercityinfo">
+		<composite-id>
+			<key-property name="masterID" type="java.lang.Long" column="masterID"/>
+			<key-property name="cityID" type="java.lang.Integer" column="cityID"/>
+		</composite-id>
+		<property name="info" type="java.lang.String" column="info" length="65536" not-null="true"/>
+	</class>
+</hibernate-mapping>

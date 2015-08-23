@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<memcached>
+    
+    <client name="online" compressEnable="true" defaultEncoding="UTF-8" socketpool="onlinePool">
+        <errorHandler>com.alisoft.xplatform.asf.cache.memcached.MemcachedErrorHandler</errorHandler>
+    </client><!--
+    
+    <client name="steal" compressEnable="true" defaultEncoding="UTF-8" socketpool="stealPool">
+        <errorHandler>com.alisoft.xplatform.asf.cache.memcached.MemcachedErrorHandler</errorHandler>
+    </client>
+    
+    --><socketpool name="onlinePool" failover="true" initConn="5" minConn="5" maxConn="250" maintSleep="0"
+        nagle="false" socketTO="3000" aliveCheck="true">
+        <servers>192.168.27.26:11211</servers>
+        <!--127.0.0.1:11211 :本地 --><!--
+        192.168.1.3:11211 :TTT
+    --></socketpool><!-- 
+    
+    <socketpool name="stealPool" failover="true" initConn="5" minConn="5" maxConn="250" maintSleep="0"
+        nagle="false" socketTO="3000" aliveCheck="true">
+        <servers>192.168.27.40:11211</servers>
+         192.168.27.40:11211 
+    </socketpool> 
+    
+	--><!--
+		<cluster name="cluster">
+        <memCachedClients>online,steal</memCachedClients>
+    </cluster> 
+	 -->
+</memcached>

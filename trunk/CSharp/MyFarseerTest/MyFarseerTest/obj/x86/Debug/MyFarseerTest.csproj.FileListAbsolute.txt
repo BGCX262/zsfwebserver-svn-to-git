@@ -1,0 +1,2 @@
+e:\c#workspace\MyFarseerTest\MyFarseerTest\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\c#workspace\MyFarseerTest\MyFarseerTest\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

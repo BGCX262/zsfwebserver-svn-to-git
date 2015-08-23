@@ -1,0 +1,25 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.TaskBean" table="taskbean">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="assigned"/>
+		</id>
+		<property name="goodID" type="java.lang.Integer" column="goodID"/>
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="preTask" type="java.lang.Integer" column="preTask"/>
+		<property name="acceptMinLevel" type="java.lang.Integer" column="acceptMinLevel"/>
+		<property name="acceptMaxLevel" type="java.lang.Integer" column="acceptMaxLevel"/>
+		<property name="taskType" type="java.lang.Integer" column="taskType"/>
+		<property name="targetNum" type="java.lang.Integer" column="targetNum"/>
+		<property name="lead" type="java.lang.Boolean" column="lead"/>
+		<property name="targetPara" type="java.lang.String" column="targetPara" length="255"/>
+		<property name="name" type="java.lang.String" column="name" length="50"/>
+		<property name="target" type="java.lang.String" column="target"  length="255"/>
+		<property name="leadMsg" type="java.lang.String" column="leadMsg"  length="255"/>
+		<property name="prize" type="java.lang.String" column="prize"  length="255"/>
+		<property name="comment" type="java.lang.String" column="comment" length="100"/>
+	</class>
+</hibernate-mapping>

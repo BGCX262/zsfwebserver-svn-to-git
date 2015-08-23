@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+	<Asset Type="LocalizationPipeline.LocalizedFontDescription">
+		<FontName>Courier New</FontName>
+		<Size>32</Size>
+		<Spacing>2</Spacing>
+		<Style>Bold</Style>
+        <DefaultCharacter>?</DefaultCharacter>
+		<CharacterRegions>
+			<CharacterRegion>
+				<Start>&#32;</Start>
+				<End>&#126;</End>
+			</CharacterRegion>
+		</CharacterRegions>
+        <ResourceFiles>
+            <Resx>..\zh-cn.resx</Resx>
+        </ResourceFiles>
+	</Asset>
+</XnaContent>

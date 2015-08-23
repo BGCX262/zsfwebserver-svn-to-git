@@ -1,0 +1,22 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.TimesBean" table="timesbean">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="assigned"/>
+		</id>
+		<property name="cityID" type="java.lang.Integer" column="cityID" />
+		<property name="monsterNum" type="java.lang.Integer" column="monsterNum" />
+		<property name="monsterHp" type="java.lang.Integer" column="monsterHp" />
+		<property name="bossNum" type="java.lang.Integer" column="bossNum" />
+		<property name="bossHp" type="java.lang.Integer" column="bossHp" />
+		<property name="monsterGlory" type="java.lang.Integer" column="monsterGlory" />
+		<property name="BossGlory" type="java.lang.Integer" column="BossGlory" />
+		<property name="monsterGoodID" type="java.lang.Integer" column="monsterGoodID" />
+		<property name="bossGoodID" type="java.lang.Integer" column="bossGoodID" />
+		<property name="dropGoods" type="java.lang.String" column="dropGoods"  length="255"/>
+		<property name="explorsiveGoods" type="java.lang.String" column="explorsiveGoods"  length="255"/>
+	</class>
+</hibernate-mapping>

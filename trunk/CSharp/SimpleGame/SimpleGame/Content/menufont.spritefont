@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+	<Asset Type="LocalizationPipeline.LocalizedFontDescription">
+		<FontName>Comic Sans MS</FontName>
+		<Size>23</Size>
+		<Spacing>2</Spacing>
+		<Style>Regular</Style>
+		<CharacterRegions>
+			<CharacterRegion>
+				<Start>&#32;</Start>
+				<End>&#126;</End>
+			</CharacterRegion>
+		</CharacterRegions>
+        <ResourceFiles>
+            <Resx>..\zh-cn.resx</Resx>
+        </ResourceFiles>
+	</Asset>
+</XnaContent>

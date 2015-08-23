@@ -1,0 +1,19 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.UserReceiveGood" table="userreceivegood">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="identity"/>
+		</id>
+		<property name="masterID" type="java.lang.Long" column="masterID"/>
+		<property name="goodID" type="java.lang.Integer" column="goodID"/>
+		<property name="num" type="java.lang.Integer" column="num"/>
+		<property name="createDate" type="java.lang.String" column="createDate"/>
+		<property name="isReceive" type="java.lang.Integer" column="isReceive"/>
+		<property name="realTime" type="java.lang.Long" column="realTime"/>
+		<property name="receiveTime" type="java.lang.Long" column="receiveTime"/>
+		<property name="type" type="java.lang.Integer" column="type"/>
+	</class>
+</hibernate-mapping>

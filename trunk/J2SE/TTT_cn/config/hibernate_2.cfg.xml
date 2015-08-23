@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="GBK"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+
+<hibernate-configuration>
+	<session-factory>
+		<property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+		<property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+		<property name="connection.url">jdbc:mysql://192.168.27.26:3306/td</property>
+		<property name="connection.username">centospub</property>
+		<property name="connection.password">09492389</property>
+		<property name="connection.useUnicode">true</property>     
+        <property name="connection.characterEncoding">UTF-8</property>   
+		<property name="hibernate.jdbc.batch_size">100</property>
+		<property name="jdbc.fetch_size">1</property>
+		<property name="hbm2ddl.auto">update</property><!-- update -->
+		<property name="connection.useUnicode">true</property>
+		<property name="show_sql">false</property>
+		<!-- c3p0-configuration -->
+		<property name="hibernate.connection.provider_class">org.hibernate.connection.C3P0ConnectionProvider</property> 
+		<property name="hibernate.c3p0.min_size">5</property>
+		<property name="hibernate.c3p0.max_size">10</property>
+		<property name="hibernate.c3p0.timeout">30</property>
+		<property name="hibernate.c3p0.idle_test_period">30</property>
+		<property name="hibernate.c3p0.max_statements">0</property>
+		<property name="hibernate.c3p0.acquire_increment">5</property>
+		
+		<mapping resource="hibernate/BlueprintBean.hbm.xml"/>
+		<mapping resource="hibernate/BlueprintPieceBean.hbm.xml"/>
+		<mapping resource="hibernate/CastleBean.hbm.xml"/>
+		<mapping resource="hibernate/CityBean.hbm.xml"/>
+		<mapping resource="hibernate/FinanceBean.hbm.xml"/>
+		<mapping resource="hibernate/GoodsBean.hbm.xml"/>
+		<mapping resource="hibernate/LoginLog.hbm.xml"/>
+		<mapping resource="hibernate/LoginRecord.hbm.xml"/>
+		<mapping resource="hibernate/PrizeBean.hbm.xml"/>
+		<mapping resource="hibernate/MonsterBean.hbm.xml"/>
+		<mapping resource="hibernate/PropBean.hbm.xml"/>
+		<mapping resource="hibernate/SlaverBean.hbm.xml"/>
+		<mapping resource="hibernate/StoneBean.hbm.xml"/>
+		<mapping resource="hibernate/TowerBean.hbm.xml"/>
+		<mapping resource="hibernate/SoulTowerBean.hbm.xml"/>
+		<mapping resource="hibernate/MineBean.hbm.xml"/>
+		<mapping resource="hibernate/TechnologyTowerBean.hbm.xml"/>
+		<mapping resource="hibernate/TechnologyTreeBean.hbm.xml"/>
+		<mapping resource="hibernate/UserCastle.hbm.xml"/>
+		<mapping resource="hibernate/UserSlaver.hbm.xml"/>
+		<mapping resource="hibernate/UserCityInfo.hbm.xml"/>
+		<mapping resource="hibernate/UserStorage.hbm.xml"/>
+		<mapping resource="hibernate/FriendSlaver.hbm.xml"/>
+		<mapping resource="hibernate/MaterialBean.hbm.xml"/>
+		<mapping resource="hibernate/TreasureChestBean.hbm.xml"/>
+		<mapping resource="hibernate/TimesBean.hbm.xml"/>
+		<mapping resource="hibernate/Race.hbm.xml"/>
+		<mapping resource="hibernate/TaskBean.hbm.xml"/>
+		<mapping resource="hibernate/IndexBean.hbm.xml"/>
+		<mapping resource="hibernate/TitleBean.hbm.xml"/>
+		<mapping resource="hibernate/MemcachePVPListBean.hbm.xml"/>
+		<mapping resource="hibernate/CancelAccount.hbm.xml"/>
+		<mapping resource="hibernate/UserFightInfo.hbm.xml"/>
+		<mapping resource="hibernate/Mission.hbm.xml"/>
+		<mapping resource="hibernate/Message.hbm.xml"/>
+		<mapping resource="hibernate/PVPRecordBean.hbm.xml"/>
+		<mapping resource="hibernate/UserTask.hbm.xml"/>
+		<mapping resource="hibernate/Enemy.hbm.xml"/>
+		<mapping resource="hibernate/PickedFriends.hbm.xml"/>
+		<mapping resource="hibernate/UserSoulTower.hbm.xml"/>
+		<mapping resource="hibernate/UserMine.hbm.xml"/>
+		<mapping resource="hibernate/UserTechnology.hbm.xml"/>
+		<mapping resource="hibernate/UserLottery.hbm.xml"/>
+		<mapping resource="hibernate/SocialGiftCheck.hbm.xml"/>
+		<mapping resource="hibernate/UserCopy.hbm.xml"/>
+		<mapping resource="hibernate/UserReceiveGood.hbm.xml"/>
+		<mapping resource="hibernate/UserInviteFriend.hbm.xml"/>
+		<mapping resource="hibernate/UserPickFriend.hbm.xml"/>
+		<mapping resource="hibernate/UserLoveTask.hbm.xml"/>
+	</session-factory>
+</hibernate-configuration>

@@ -1,0 +1,27 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.CityBean" table="citybean">
+		<id name="level" column="level" type="java.lang.Integer">
+			<generator class="assigned"/>
+		</id>
+		<property name="goodID" type="java.lang.Integer" column="goodID"/>
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="name" type="java.lang.String" column="name" length="50"/>
+		<property name="lastTimes" type="java.lang.Integer" column="lastTimes"/>
+		<property name="openNeedRock" type="java.lang.Integer" column="openNeedRock"/>
+		<property name="openNeedMetal" type="java.lang.Integer" column="openNeedMetal"/>
+		<property name="openNeedCrystal" type="java.lang.Integer" column="openNeedCrystal"/>
+		<property name="openNeedCoin" type="java.lang.Integer" column="openNeedCoin"/>
+		<property name="openNeedCash" type="java.lang.Integer" column="openNeedCash"/>
+		<property name="openNeedCastleLev" type="java.lang.Integer" column="openNeedCastleLev"/>
+		<property name="mapName" type="java.lang.String" column="mapName" length="50"/>
+		<property name="towerBase" type="java.lang.String" column="towerBase" length="1024"/>
+		<property name="resetNeedEnergy" type="java.lang.Integer" column="resetNeedEnergy"/>
+		<property name="goldMonsterRate" type="java.lang.Double" column="goldMonsterRate"/>
+		<property name="movePath" type="java.lang.String" column="movePath" length="1024"/>
+		<property name="comment" type="java.lang.String" column="comment" length="100"/>
+	</class>
+</hibernate-mapping>

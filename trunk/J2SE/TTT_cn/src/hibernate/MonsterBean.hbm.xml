@@ -1,0 +1,34 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.MonsterBean" table="monsterbean">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="identity"/>
+		</id>
+		<property name="level" type="java.lang.Integer" column="level" />
+		<property name="goodID" type="java.lang.Integer" column="goodID" />
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="hp" type="java.lang.Integer" column="hp" />
+		<property name="name" type="java.lang.String" column="name" length="50"/>
+		<property name="atk" type="java.lang.Integer" column="atk" />
+		<property name="asd" type="java.lang.Integer" column="asd" />
+		<property name="type" type="java.lang.Integer" column="type" />
+		<property name="robTimes" type="java.lang.Integer" column="robTimes" />
+		<property name="special" type="java.lang.Integer" column="special" />
+		<property name="miss" type="java.lang.String" column="miss" length="50"/>
+		<property name="canBeCreate" type="java.lang.Boolean" column="canBeCreate"/>
+		<property name="time" type="java.lang.Integer" column="time" />
+		<property name="createNeedCoin" type="java.lang.Integer" column="createNeedCoin" />
+		<property name="createNeedRock" type="java.lang.Integer" column="createNeedRock" />
+		<property name="createNeedMetal" type="java.lang.Integer" column="createNeedMetal" />
+		<property name="createNeedCrystal" type="java.lang.Integer" column="createNeedCrystal" />
+		<property name="createNeedSoul" type="java.lang.Integer" column="createNeedSoul" />
+		<property name="createNeedBadge" type="java.lang.Integer" column="createNeedBadge" />
+		<property name="createNumLimit" type="java.lang.Integer" column="createNumLimit" />
+		<property name="resourceName" type="java.lang.String" column="resourceName" length="50"/>
+		<property name="resourceSWFName" type="java.lang.String" column="resourceSWFName" length="50"/>
+		<property name="comment" type="java.lang.String" column="comment" length="100"/>
+	</class>
+</hibernate-mapping>

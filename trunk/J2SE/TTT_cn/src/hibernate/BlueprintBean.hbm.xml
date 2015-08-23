@@ -1,0 +1,28 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.BlueprintBean" table="blueprintbean">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="identity"/>
+		</id>
+		<property name="goodID" type="java.lang.Integer" column="goodID"/>
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="name" type="java.lang.String" column="name" length="50"/>
+		<property name="level" type="java.lang.Integer" column="level"/>
+		<property name="baseLevel" type="java.lang.Integer" column="baseLevel"/>
+		<property name="resourceName" type="java.lang.String" column="resourceName" length="50"/>
+		<property name="race" type="java.lang.Integer" column="race"/>
+		<property name="product" type="java.lang.Integer" column="product"/>
+		<property name="basicRate" type="java.lang.Double" column="basicRate"/>
+		<property name="extraRate" type="java.lang.Double" column="extraRate"/>
+		<property name="comment" type="java.lang.String" column="comment" length="100"/>
+		<property name="synthesizeSuccessID" type="java.lang.Integer" column="synthesizeSuccessID"/>
+		<property name="synthesizeFailedID" type="java.lang.Integer" column="synthesizeFailedID"/>
+		<property name="basicID" type="java.lang.Integer" column="basicID"/>
+		<property name="basicNum" type="java.lang.Integer" column="basicNum"/>
+		<property name="maxExtra" type="java.lang.Integer" column="maxExtra"/>
+		<property name="extraID" type="java.lang.Integer" column="extraID"/>
+	</class>
+</hibernate-mapping>

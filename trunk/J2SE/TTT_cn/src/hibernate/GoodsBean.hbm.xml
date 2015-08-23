@@ -1,0 +1,25 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.GoodsBean" table="goodsbean">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="assigned"/>
+		</id>
+		<property name="name" type="java.lang.String" column="name" length="50" not-null="true"/>
+		<property name="cate" type="java.lang.Integer" column="cate" not-null="true"/>
+		<property name="buy" type="java.lang.Integer" column="buy" not-null="true"/>
+		<property name="level" type="java.lang.Integer" column="level" not-null="true"/>
+		<property name="payment" type="java.lang.Integer" column="payment" not-null="true"/>
+		<property name="discount" type="java.lang.Double" column="discount" not-null="true"/>
+		<property name="score" type="java.lang.Integer" column="score" not-null="true"/>
+		<property name="price" type="java.lang.Integer" column="price" not-null="true"/>
+		<property name="vipPrice" type="java.lang.Integer" column="vipPrice" not-null="true"/>
+		<property name="sellPrice" type="java.lang.Integer" column="sellPrice" not-null="true"/>
+		<property name="hot" type="java.lang.Boolean" column="hot" not-null="true"/>
+		<property name="online" type="java.lang.Double" column="online" not-null="true"/>
+		<property name="offline" type="java.lang.Double" column="offline" not-null="true"/>
+		<property name="presents" type="java.lang.String" column="presents" length="255"/>
+	</class>
+</hibernate-mapping>

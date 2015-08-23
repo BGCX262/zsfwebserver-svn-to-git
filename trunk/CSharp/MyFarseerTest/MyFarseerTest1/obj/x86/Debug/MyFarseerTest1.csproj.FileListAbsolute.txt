@@ -1,0 +1,13 @@
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\bin\x86\Debug\MyFarseerTest1.exe
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\bin\x86\Debug\MyFarseerTest1.pdb
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\bin\x86\Debug\FarseerPhysics.dll
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\bin\x86\Debug\FarseerPhysics.pdb
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\obj\x86\Debug\ResolveAssemblyReference.cache
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\obj\x86\Debug\MyFarseerTest1.exe
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\obj\x86\Debug\MyFarseerTest1.pdb
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\bin\x86\Debug\Content\1.xnb
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\bin\x86\Debug\Content\3.xnb
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\bin\x86\Debug\Content\2.xnb
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\bin\x86\Debug\Content\2c.xnb
+e:\c#workspace\MyFarseerTest\MyFarseerTest1\bin\x86\Debug\Content\chinesefont.xnb

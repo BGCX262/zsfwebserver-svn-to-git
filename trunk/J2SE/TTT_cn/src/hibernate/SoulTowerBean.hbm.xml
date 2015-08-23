@@ -1,0 +1,24 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.SoulTowerBean" table="soultowerbean">
+		<id name="level" column="level" type="java.lang.Integer">
+			<generator class="assigned"/>
+		</id>
+		<property name="goodID" type="java.lang.Integer" column="goodID"/>
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="name" type="java.lang.String" column="name" length="50"/>
+		<property name="resourceName" type="java.lang.String" column="resourceName" length="50"/>
+		<property name="queueNumLimit" type="java.lang.Integer" column="queueNumLimit"/>
+		<property name="upgradeNeedCastleLevel" type="java.lang.Integer" column="upgradeNeedCastleLevel"/>
+		<property name="upgradeNeedCoin" type="java.lang.Integer" column="upgradeNeedCoin"/>
+		<property name="upgradeNeedRock" type="java.lang.Integer" column="upgradeNeedRock"/>
+		<property name="upgradeNeedMetal" type="java.lang.Integer" column="upgradeNeedMetal"/>
+		<property name="upgradeNeedCrystal" type="java.lang.Integer" column="upgradeNeedCrystal"/>
+		<property name="upgradeNeedSoul" type="java.lang.Integer" column="upgradeNeedSoul"/>
+		<property name="upgradeTime" type="java.lang.Integer" column="upgradeTime"/>
+		<property name="comment" type="java.lang.String" column="comment" length="100"/>
+	</class>
+</hibernate-mapping>

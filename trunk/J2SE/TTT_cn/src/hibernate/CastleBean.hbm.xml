@@ -1,0 +1,29 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.CastleBean" table="castlebean">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="identity"/>
+		</id>
+		<property name="level" type="java.lang.Integer" column="level" />
+		<property name="goodID" type="java.lang.Integer" column="goodID"/>
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="race" type="java.lang.Integer" column="race"/>
+		<property name="hp" type="java.lang.Integer" column="hp"/>
+		<property name="monsterVol" type="java.lang.Integer" column="monsterVol"/>
+		<property name="towerVol" type="java.lang.Integer" column="towerVol"/>
+		<property name="soulVol" type="java.lang.Integer" column="soulVol"/>
+		<property name="spVol" type="java.lang.Integer" column="spVol"/>
+		<property name="upNeedRock" type="java.lang.Integer" column="upNeedRock"/>
+		<property name="upNeedMetal" type="java.lang.Integer" column="upNeedMetal"/>
+		<property name="upNeedCrystal" type="java.lang.Integer" column="upNeedCrystal"/>
+		<property name="upNeedCoin" type="java.lang.Integer" column="upNeedCoin"/>
+		<property name="upNeedGlory" type="java.lang.Integer" column="upNeedGlory"/>
+		<property name="upTime" type="java.lang.Integer" column="upTime" />
+		<property name="repairTime" type="java.lang.Integer" column="repairTime" />
+		<property name="resourceName" type="java.lang.String" column="resourceName"/>
+		<property name="comment" type="java.lang.String" column="comment" length="100"/>
+	</class>
+</hibernate-mapping>

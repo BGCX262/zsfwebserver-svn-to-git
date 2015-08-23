@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.UserLottery" table="userlottery">
+		<id name="id" column="id" type="java.lang.Long">
+			<generator class="assigned"/>
+		</id>
+		<property name="lotteryLevel" type="java.lang.Integer" column="lotteryLevel"/>
+		<property name="lotteryNum" type="java.lang.Integer" column="lotteryNum"/>
+		<property name="lotteryTime" type="java.lang.Long" column="lotteryTime"/>
+		<property name="zero" type="java.lang.Boolean" column="zero"/>
+	</class>
+</hibernate-mapping>

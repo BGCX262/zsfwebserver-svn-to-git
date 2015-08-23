@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/其他工作/mysql-connector-java-5.1.10-bin.jar"/>
+	<classpathentry kind="lib" path="E:/lib/brydio_utils.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="E:/lib/jsch-20091114.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/facebook-java-api-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/facebook-java-api-schema-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/lib/java_memcached-release_1.6/java_memcached-release_1.6.jar" sourcepath="E:/lib/java_memcached-release_1.6/src"/>
+	<classpathentry kind="lib" path="E:/td_lib/json-lib-2.3-jdk15.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/commons-lang.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/commons-lang-2.2.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/ezmorph-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/commons-beanutils-1.6.jar"/>
+	<classpathentry kind="lib" path="E:/td_lib/alisoft-xplatform-asf-cache-2.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.6.0_15/lib/tools.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/mytestsfs/RedBox/lib/servlet-api-.jar"/>
+	<classpathentry kind="lib" path="E:/workspace/mytestsfs/RedBox/lib/jsp-api-.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

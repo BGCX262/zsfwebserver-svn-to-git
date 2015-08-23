@@ -1,0 +1,1092 @@
+INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - Storing with native handler...
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ memcache cmd (result code): set i 4 0 4
+ (STORED)
+ INFO main com.alisoft.xplatform.asf.cache.memcached.client.MemCachedClient - ++++ data successfully stored for key: i
+ INFO main com.alisoft.xplatform.asf.cache.memcached.CacheUtil - loaded from services: com.alisoft.xplatform.asf.cache.memcached.MemcachedCacheManager
+ INFO main com.alisoft.xplatform.asf.cache.memcached.CacheUtil -  add memcachedClient config :online
+ INFO main com.alisoft.xplatform.asf.cache.memcached.CacheUtil -  add socketpool config :onlinePool
+ INFO main com.alisoft.xplatform.asf.cache.memcached.MemcachedCacheManager - load config from :/E:/workspace/myTest/bin/memcached.xml
+ INFO main com.alisoft.xplatform.asf.cache.memcached.MemcachedCacheManager -  add socketpool :onlinePool
+ INFO main com.alisoft.xplatform.asf.cache.impl.DefaultCacheImpl - DefaultCache CheckService is start!
+ INFO main com.alisoft.xplatform.asf.cache.memcached.MemcachedCacheManager -  add memcachedClient :online
+ INFO main com.alisoft.xplatform.asf.cache.impl.DefaultCacheImpl - DefaultCache CheckService is start!
+ 

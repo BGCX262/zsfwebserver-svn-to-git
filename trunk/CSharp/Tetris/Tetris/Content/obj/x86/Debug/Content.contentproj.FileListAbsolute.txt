@@ -1,0 +1,2 @@
+e:\c#workspace\Tetris\Tetris\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\D-io\桌面\Tetris\Tetris\Content\obj\x86\Debug\ResolveAssemblyReference.cache

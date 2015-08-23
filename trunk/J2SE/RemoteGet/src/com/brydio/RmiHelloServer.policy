@@ -1,0 +1,6 @@
+grant codeBase
+"file:/e:/download/rmitest/"
+{
+ permission java.net.SocketPermission
+      "*:1000-9999","accept,connect,listen,resolve";
+};

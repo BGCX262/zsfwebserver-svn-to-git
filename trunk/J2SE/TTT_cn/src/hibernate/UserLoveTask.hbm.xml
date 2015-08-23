@@ -1,0 +1,14 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.UserLoveTask" table="userlovetask">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="identity"/>
+		</id>
+		<property name="masterId" type="java.lang.Long" column="masterId"/>
+		<property name="friendId" type="java.lang.Long" column="friendId"/>
+		<property name="time" type="java.lang.Long" column="time"/>
+	</class>
+</hibernate-mapping>

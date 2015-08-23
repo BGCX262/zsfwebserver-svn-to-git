@@ -1,0 +1,22 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.FinanceBean" table="financebean">
+		<id name="id" column="id" type="java.lang.Long">
+			<generator class="assigned"/>
+		</id>
+		<property name="coin" type="java.lang.Integer" column="coin"  />
+		<property name="systemCash" type="java.lang.Double" column="systemCash" />
+		<property name="cash" type="java.lang.Double" column="cash" />
+		<property name="energy" type="java.lang.Integer" column="energy" />
+		<property name="rock" type="java.lang.Integer" column="rock" />
+		<property name="metal" type="java.lang.Integer" column="metal" />
+		<property name="crystal" type="java.lang.Integer" column="crystal" />
+		<property name="soul" type="java.lang.Integer" column="soul"  />
+		<property name="glory" type="java.lang.Integer" column="glory" />
+		<property name="badge" type="java.lang.Integer" column="badge" />
+		<property name="maxMmarkID" type="java.lang.Integer" column="maxMmarkID" />
+	</class>
+</hibernate-mapping>

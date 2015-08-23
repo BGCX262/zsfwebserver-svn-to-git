@@ -1,0 +1,18 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.UserInviteFriend" table="userinvitefriend">
+		<id name="id" column="id" type="java.lang.Long">
+			<generator class="identity"/>
+		</id>
+		<property name="masterID" type="java.lang.Long" column="masterID"/>
+		<property name="cityID" type="java.lang.Integer" column="cityID"/>
+		<property name="towerID" type="java.lang.Integer" column="towerID"/>
+		<property name="needFriend" type="java.lang.Integer" column="needFriend"/>
+		<property name="reachedFriend" type="java.lang.Integer" column="reachedFriend"/>
+		<property name="inviteFriends" type="java.lang.String" column="inviteFriends" length="65536"/>
+		<property name="reachedFriendsList" type="java.lang.String" column="reachedFriendsList" length="65536"/>
+	</class>
+</hibernate-mapping>

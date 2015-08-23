@@ -1,0 +1,51 @@
+<?xml version="1.0"  encoding="utf-8" ?>
+<!DOCTYPE hibernate-mapping PUBLIC
+     "-//Hibernate/Hibernate Mapping DTD 3.0//EN" 
+     "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd" >
+<hibernate-mapping>
+	<class name="com.database.model.bean.TowerBean" table="towerbean">
+		<id name="id" column="id" type="java.lang.Integer">
+			<generator class="identity"/>
+		</id>
+		<property name="goodID" type="java.lang.Integer" column="goodID" />
+		<property name="cate" type="java.lang.Integer" column="cate"/>
+		<property name="sceneLevel" type="java.lang.Integer" column="sceneLevel" />
+		<property name="level" type="java.lang.Integer" column="level" />
+		<property name="name" type="java.lang.String" column="name" length="50"/>
+		<property name="baseLevel" type="java.lang.Integer" column="baseLevel" />
+		<property name="race" type="java.lang.Integer" column="race" />
+		<property name="bulletResourceName" type="java.lang.String" column="bulletResourceName" length="50"/>
+		<property name="resourceName" type="java.lang.String" column="resourceName" length="50"/>
+		<property name="resourceSWFName" type="java.lang.String" column="resourceSWFName" length="50"/>
+		<property name="hp" type="java.lang.Integer" column="hp" />
+		<property name="atk" type="java.lang.Integer" column="atk" />
+		<property name="asd" type="java.lang.Double" column="asd" />
+		<property name="ar" type="java.lang.Integer" column="ar" />
+		
+		<property name="towerType" type="java.lang.Integer" column="towerType" />
+		<property name="attackNum" type="java.lang.Integer" column="attackNum" />
+		<property name="shellType" type="java.lang.Integer" column="shellType" />
+		<property name="duration" type="java.lang.Integer" column="duration" />
+		<property name="buildNeedRock" type="java.lang.Integer" column="buildNeedRock" />
+		<property name="buildNeedMetal" type="java.lang.Integer" column="buildNeedMetal" />
+		<property name="buildNeedCrystal" type="java.lang.Integer" column="buildNeedCrystal" />
+		<property name="buildNeedCoin" type="java.lang.Integer" column="buildNeedCoin" />
+		
+		<property name="feedbackRock" type="java.lang.Integer" column="feedbackRock" />
+		<property name="feedbackMetal" type="java.lang.Integer" column="feedbackMetal" />
+		<property name="feedbackCrystal" type="java.lang.Integer" column="feedbackCrystal" />
+		
+		
+		<property name="upIndexID" type="java.lang.Integer" column="upIndexID" />
+		<property name="upTime" type="java.lang.Integer" column="upTime" />
+		<property name="upNeedRock" type="java.lang.Integer" column="upNeedRock" />
+		<property name="upNeedMetal" type="java.lang.Integer" column="upNeedMetal" />
+		<property name="upNeedCrystal" type="java.lang.Integer" column="upNeedCrystal" />
+		<property name="upNeedFriend" type="java.lang.Integer" column="upNeedFriend" />
+		<property name="time" type="java.lang.Integer" column="time" />
+		<property name="towerAttType" type="java.lang.Integer" column="towerAttType" />
+		<property name="rate" type="java.lang.String" column="rate" length="255"/>
+		<property name="effect" type="java.lang.String" column="effect" length="255"/>
+		<property name="comment" type="java.lang.String" column="comment" length="100"/>
+	</class>
+</hibernate-mapping>

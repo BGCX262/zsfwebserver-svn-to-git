@@ -1,0 +1,9 @@
+Testsuite: com.testStrus.HelloWorldTest
+Tests run: 2, Failures: 0, Errors: 0, Time elapsed: 0.414 sec
+------------- Standard Output ---------------
+success~
+ok~
+------------- ---------------- ---------------
+
+Testcase: testMain took 0.027 sec
+Testcase: testGetConn took 0.356 sec
